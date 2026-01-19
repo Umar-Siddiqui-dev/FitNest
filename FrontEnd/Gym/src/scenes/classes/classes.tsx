@@ -1,5 +1,4 @@
 import { Selectedpage } from "@/shared/types"
-import image1 from '@/assets/image1.png'
 import image2 from '@/assets/image2.png'
 import men from '@/assets/daniel-apodaca-WdoQio6HPVA-unsplash.jpg'
 import image3 from '@/assets/image3.png'

@@ -1,7 +1,6 @@
 import logo from '@/assets/Logo.png'
-type Props = {}
 
-const foot = (props: Props) => {
+const foot = () => {
   return (
     <section className='bg-primary-500 py-16 '>
         <div className="justify-content mx-auto w-5/6 gap-16 md:flex">
