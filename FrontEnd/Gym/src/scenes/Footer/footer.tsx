@@ -8,21 +8,21 @@ const foot = (props: Props) => {
         <div className='mt-16 basis-1/2 md:mt-0'>
             <img src={logo} alt="" />
             <p className='my-5'>
-                Lorem ipsum asdn;lasud d ;oa oasd;i kjr ff sd lfbsd fbksd fbksdbfksdhbfsd fbksdfbdskf ,sdfn slsd uhfuilsd flsdbfksdy gfksd fyksdfjksd fsduk fsdk fyksd fkysd.
+                This Website is developed by Umar Siddiqui .
             </p>
             <p>@ Copyright All rights reserved</p>
         </div>
         <div className='mt-16 basis-1/4 md:mt-0'>
             <h4 className='font-bold'>Links</h4>
-            <p className='my-5'> ls ojl dsd fks jdfklsdf </p>
-            <p className='my-5'> lksdbf asdsdh fbsdjhfb ksdjhfb ksdb fsdhfb s</p>
-            <p>duhf uifh sdu fhsdulf huilsd fhsduf</p>
+            <p className='my-5'> https://www.linkedin.com/in/umar-siddiqui-b3684321a/ </p>
+            <p className='my-5'> https://github.com/Umar-Siddiqui-dev</p>
+            {/* <p>duhf uifh sdu fhsdulf huilsd fhsduf</p> */}
         </div> 
         <div className='mt-16 basis-1/4 md:mt-0'>
             <h4 className='font-bold'>Contact Us</h4>
-            <p className='my-5'> ls ojl dsd fks jdfklsdf </p>
-            <p className='my-5'> lksdbf asdsdh fbsdjhfb ksdjhfb ksdb fsdhfb s</p>
-            <p>duhf uifh sdu fhsdulf huilsd fhsduf</p>
+            <p className='my-5'> +92 3005259093 </p>
+            <p className='my-5'> umar.siddiqui.94009@gmail.com</p>
+            <p>https://www.linkedin.com/in/umar-siddiqui-b3684321a/</p>
         </div> 
     </div>
     </section>
